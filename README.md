@@ -1,9 +1,9 @@
-# MyInventory-App
+# ABCNotationapp
 
 Manage your personal inventory:
-The MyInventory App is used to manage the personal belongings in your own household. It can create people / owners, categories of products (such as TV, computer, jewelry, etc.) or even manufacturers often used. Furthermore, these objects rooms such as the basement, the office or the garden can be assigned.
+The ABCNotationapp is used to manage the personal belongings in your own household. It can create people / owners, categories of products (such as TV, computer, jewelry, etc.) or even manufacturers often used. Furthermore, these objects rooms such as the basement, the office or the garden can be assigned.
 
-MyInventory App ships with a number of categories, brands, example owners, and rooms. When using for the first time, it is advisable to adapt the individual terms to the personal situation in the "Manage objects" area. Afterwards you can start to record the personal inventory. Photos of an item can also be added here (if the user allows camera use), or already created PDF files containing billing information.
+ABCNotationapp ships with a number of categories, brands, example owners, and rooms. When using for the first time, it is advisable to adapt the individual terms to the personal situation in the "Manage objects" area. Afterwards you can start to record the personal inventory. Photos of an item can also be added here (if the user allows camera use), or already created PDF files containing billing information.
 
 After capturing, PDF-based reports can be generated and distributed or printed out.
 
